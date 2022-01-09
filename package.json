@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "keywords": [],
-  "homepage": "https://kishank11.github.io",
+  "homepage": "https://kishank11.github.io/UItask",
   "main": "src/app.js",
   "dependencies": {
     "gh-pages": "^3.2.3",
